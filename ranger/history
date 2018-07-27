@@ -1,0 +1,5 @@
+open_with  pinta
+open_with vim
+mkdir tint2
+rename tint2rc
+rename caaq.html
