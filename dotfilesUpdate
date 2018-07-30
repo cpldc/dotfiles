@@ -1,0 +1,7 @@
+#!/bin/bash
+cp -v ~/.Xresources ~/Documents/dotfiles/
+cp -v ~/.fehbg ~/Documents/dotfiles/
+cp -v ~/.config/i3/* ~/Documents/dotfiles/i3/
+cp -v ~/.config/ranger/* ~/Documents/dotfiles/ranger/
+cp -v ~/.config/tint2/* ~/Documents/dotfiles/tint2/
+cp -v ~/dotfilesUpdate ~/Documents/dotfiles/
